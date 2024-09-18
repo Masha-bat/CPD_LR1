@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XMepDq+/jzE=",
+  "dgSpecHash": "WbadCXhkEqA=",
   "success": true,
-  "projectFilePath": "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\лр1\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\batyu\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\batyu\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

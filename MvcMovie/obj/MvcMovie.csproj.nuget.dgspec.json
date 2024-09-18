@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\лр1\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {}
+    "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\лр1\\MvcMovie\\MvcMovie\\MvcMovie.csproj": {
+    "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\лр1\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\лр1\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\batyu\\.nuget\\packages\\",
-        "outputPath": "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\лр1\\MvcMovie\\MvcMovie\\obj\\",
+        "outputPath": "D:\\учеба\\Универ\\4 курс\\7 семестр\\Кроссплатформенная разработка\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\batyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
